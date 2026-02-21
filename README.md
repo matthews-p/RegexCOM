@@ -10,3 +10,6 @@ VBScript library's RegExp class. For most users this will probably
 be adequate, but for users looking for features that exist in the
 .NET Framework implementation but not the VBScript implementation,
 this DLL is an option.
+
+Comments and suggestions are welcome, but please be kind to this
+relative newbie.
