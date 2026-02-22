@@ -7,7 +7,7 @@ via VBA.
 Intended for use only with 64 bit MS Office. Build from Visual
 Studio should automatically register the DLL and type library.
 If it is not registering automatically, use the 64 bit regasm.exe
-to register your created URL.
+to register your created DLL.
 
 Note that Microsoft recently implement a new RegExp class in VBA. 
 This new class beasically replicates to functionality of the 
