@@ -33,3 +33,6 @@ class. Select either to see the members of each:
 
 <img width="338" height="217" alt="image" src="https://github.com/user-attachments/assets/e0a4a03e-72be-4c37-b330-8e6a9df0b879" />
 
+You can also use late binding, via CreateObject:
+
+<img width="475" height="242" alt="image" src="https://github.com/user-attachments/assets/f9ada882-4543-467a-a265-4261d3c0c3c6" />
