@@ -18,3 +18,18 @@ this DLL is an option.
 
 Comments and suggestions are welcome, but please be kind to this
 relative newbie.
+
+To use with early binding, add a reference to the RegexCOM library 
+from the VBA Editor:
+
+<img width="446" height="359" alt="image" src="https://github.com/user-attachments/assets/223d5488-e182-4754-b0f1-f656bff09d9d" />
+
+This will enable Intellisense, and also expose the members of the
+RegexCOM namespace in the Object Browser. Filter for the RegexCOM
+library, and you can see the RegexOptionsValue enum and the RegX
+class. Select either to see the members of each:
+
+<img width="491" height="286" alt="image" src="https://github.com/user-attachments/assets/22c2b40e-6452-4d31-8192-55dfc7038aa7" />
+
+<img width="338" height="217" alt="image" src="https://github.com/user-attachments/assets/e0a4a03e-72be-4c37-b330-8e6a9df0b879" />
+
